@@ -33,10 +33,15 @@ PrefabInstance:
       propertyPath: initialDir.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3380610926333666936, guid: 8b326900e395a08498fd5fcfd599b227,
+        type: 3}
+      propertyPath: duration
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4829696566067669428, guid: 8b326900e395a08498fd5fcfd599b227,
         type: 3}
       propertyPath: m_Name
-      value: BaseGhost Variant
+      value: Inky
       objectReference: {fileID: 0}
     - target: {fileID: 8986455910913912023, guid: 8b326900e395a08498fd5fcfd599b227,
         type: 3}

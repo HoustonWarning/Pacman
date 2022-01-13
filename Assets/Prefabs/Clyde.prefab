@@ -33,11 +33,21 @@ PrefabInstance:
       propertyPath: initialDir.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3380610926333666936, guid: 8b326900e395a08498fd5fcfd599b227,
+        type: 3}
+      propertyPath: duration
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 4829696566067669428, guid: 8b326900e395a08498fd5fcfd599b227,
         type: 3}
       propertyPath: m_Name
       value: Clyde
       objectReference: {fileID: 0}
+    - target: {fileID: 5197095637181650927, guid: 8b326900e395a08498fd5fcfd599b227,
+        type: 3}
+      propertyPath: ghostManager
+      value: 
+      objectReference: {fileID: 2656445182820911515}
     - target: {fileID: 8986455910913912023, guid: 8b326900e395a08498fd5fcfd599b227,
         type: 3}
       propertyPath: m_RootOrder
@@ -95,3 +105,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b326900e395a08498fd5fcfd599b227, type: 3}
+--- !u!114 &2656445182820911515 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8102583335923292202, guid: 8b326900e395a08498fd5fcfd599b227,
+    type: 3}
+  m_PrefabInstance: {fileID: 6102305257560445361}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36db1ae6e67684842b3b08719fff9879, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
